@@ -1,0 +1,14 @@
+.hero-section {
+  background: linear-gradient(135deg, #0d6efd, #000);
+  color: white;
+  padding: 120px 0 80px;
+}
+
+.section-title {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.card {
+  border-radius: 10px;
+}
