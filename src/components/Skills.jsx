@@ -9,6 +9,9 @@ const Skills = () => {
           <div className="col-md-4">
             <h5>Technical</h5>
             <ul>
+              <li>HTML/CSS</li>
+              <li>Wordpress</li>
+              <li>Elementor</li>
               <li>JavaScript</li>
               <li>React</li>
               <li>Node.js</li>
@@ -17,6 +20,9 @@ const Skills = () => {
           <div className="col-md-4">
             <h5>Professional</h5>
             <ul>
+              <li>Graphic Design</li>
+              <li>Teamwork</li>
+              <li>Adaptability</li>
               <li>Problem Solving</li>
               <li>Communication</li>
               <li>Customer Support</li>
@@ -25,8 +31,13 @@ const Skills = () => {
           <div className="col-md-4">
             <h5>Tools</h5>
             <ul>
-              <li>POS Systems</li>
-              <li>Networking Basics</li>
+              <li>Visual Studio Code</li>
+              <li>Git & GitHub</li>
+              <li>WordPress</li>
+              <li>Canva</li>
+              <li>CorelDraw</li>
+              <li>Microsoft Office Suite</li>
+              <li>AI Tools (Claude, ChatGPT and more)</li>
             </ul>
           </div>
         </div>
