@@ -6,9 +6,10 @@ const About = () => {
       <div className="container">
         <h2 className="section-title">About Me</h2>
         <p>
-          I am a dedicated Field Support Officer in the banking sector with hands-on experience in POS terminal support,
-          troubleshooting, and merchant management. I am transitioning into backend development and passionate about
-          building reliable and scalable systems.
+          I am a passionate software developer and digital technology professional with experience in 
+          frontend development, WordPress, website management, graphic design, and IT support. 
+          I enjoy transforming ideas into responsive, functional, and visually engaging digital experiences
+           while helping businesses build and maintain a strong online presence.
         </p>
       </div>
     </section>
